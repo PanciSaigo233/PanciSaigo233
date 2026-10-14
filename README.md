@@ -61,9 +61,8 @@ I'm keen to work on **AI/ML engineering**, especially where research ideas becom
 
 ## 📫 Connect
 
-- 💼 LinkedIn: *Add your LinkedIn profile URL here*
-- ✉️ Email: *Add your preferred contact email here*
-- 📂 [Explore my repositories](https://github.com/PanciSaigo233?tab=repositories)
+- 💼 LinkedIn: www.linkedin.com/in/jiaxiang-yi
+- ✉️ Email: pancisaigo@protonmail.com
 
 ---
 
