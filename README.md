@@ -35,15 +35,6 @@ Research on **hyperspherical latent representations** for generative modeling an
 
 **Tech:** Python · PyTorch · Representation Learning · Generative Models · Riemannian Geometry
 
-### 🛡️ High-Speed Network Intrusion Detection with XDP/eBPF — Master's Thesis Project
-
-An investigation of **high-throughput network feature extraction** for intrusion-detection pipelines.
-
-- Implemented and benchmarked packet processing and feature extraction using **XDP/eBPF**.
-- Profiled pipeline stages and evaluated **throughput, CPU cost, and packet loss**.
-- Studied integration with a downstream **KitNET-based anomaly detection** pipeline.
-
-**Tech:** C · eBPF/XDP · Linux · Python · Network Security · Performance Benchmarking
 
 ### 🧠 Deep Learning Projects — Image Classification & Semantic Segmentation
 
